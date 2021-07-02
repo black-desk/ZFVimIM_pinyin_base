@@ -1416,7 +1416,7 @@ wwcg 1
 wwhd 1
 wwhu 7
 wwld 1
-wwli 1
+wwli 2
 wwrc 1
 wwrr 1
 wwtn 2
