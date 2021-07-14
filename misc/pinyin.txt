@@ -574,6 +574,7 @@ iufa 触发
 iukspk 触控屏
 iule 除了 出了
 iuli 处理
+iumopk 触摸屏
 iuui 初始
 iuuihx 初始化
 iuxm 出现
