@@ -11,7 +11,7 @@ aaname 1
 aave 1
 ai 1
 aijpuu 1
-an 17 10 4 4
+an 17 11 4 4
 annq 5
 anpd 1
 anqr 9
@@ -242,7 +242,7 @@ dkbu 1
 dkww 2
 dkyi 17
 dkyt 13
-dm 26 3 1 1
+dm 27 3 1 1
 dmhx 1
 dmnc 1
 dn 8 7
@@ -258,7 +258,7 @@ dpddqi 4
 dq 1
 dr 18 7 3 1
 drkz 26
-ds 23 6 1
+ds 24 6 1
 dshx 2
 dstd 4
 dsxi 20
@@ -447,7 +447,7 @@ hcqixb 1
 hcxl 1
 hd 34 1
 hdhdee 1
-he 144 8 3 3 2
+he 145 8 3 3 2
 hehe 1
 heli 3
 heru 1
@@ -496,7 +496,8 @@ hvtz 2
 hvuz 1
 hw 11
 hwti 1
-hx 19 8 2 2 1
+hx 19 8 2 2 1 1
+hxds 1
 hy 2
 hylr 3
 hyxn 1
@@ -765,7 +766,7 @@ llge 28
 llhc 1
 llpm 1
 lltd 1
-llvs 12
+llvs 13
 lm 30 11 5
 lmjp 56 12 2
 lmlmxi 1
