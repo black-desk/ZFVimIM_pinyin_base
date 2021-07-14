@@ -162,11 +162,11 @@ cy 47
 cyfh 5
 cyiu 16
 cyqm 1
-da 64 15 5 3 1
+da 65 15 5 3 1
 daan 1
 dabnji 1
 dadc 3
-dagd 7
+dagd 7 1
 daig 1
 dajm 5
 dajx 3
@@ -357,7 +357,7 @@ gcdu 3
 gcsu 4
 gcvi 1
 gcxn 1
-gd 38 23 2
+gd 38 24 2
 gdbm 4
 gdds 1
 gdig 1
@@ -642,7 +642,7 @@ jpgzti 2
 jpii 1
 jpjpybys 2
 jpjt 19
-jpkz 4
+jpkz 5
 jpmi 5
 jpmm 6
 jpru 1
@@ -1498,7 +1498,7 @@ xrze 12
 xt 6 1
 xtxi 3
 xtxits 1
-xu 137 7 4 2 1 1 1
+xu 138 7 4 2 1 1 1
 xuks 1
 xuly 2
 xuuu 1
@@ -1521,7 +1521,7 @@ ybci 1
 ybhh 1
 ybqi 3
 ybww 29
-yc 221 2
+yc 222 2
 ycuiir 1
 ye 81 5 4
 yedrkz 1
