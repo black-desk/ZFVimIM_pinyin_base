@@ -738,7 +738,7 @@ lcdc 1
 lctc 1
 ld 227 1
 ldzi 10
-le 325
+le 326
 li 294 13 8 4 3 3 2
 liig 1
 lijple 1
@@ -996,7 +996,8 @@ qt 24 3 2
 qtbc 4 2
 qtdm 1
 qtui 2
-qtuile 1
+qtuile 2
+qtuileuc 1
 qu 39 12 6 2 1 1 1
 qubp 4
 qudc 2
@@ -1152,7 +1153,7 @@ tzpc 1
 tzzi 1
 ua 6
 uavjys 1
-uc 18 2 2
+uc 19 2 2
 uchz 1
 ucjm 1
 ucww 2
@@ -1253,7 +1254,7 @@ uzdc 4
 uzdr 1
 uzds 11
 uzhu 1
-uzji 4 2
+uzji 5 2
 uzjx 1
 uzxm 24
 va 1
